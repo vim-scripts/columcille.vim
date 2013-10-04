@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4742
+
+This plugin provides commands for setting the number of open top-level vertical windows or horizontal split windows (in a vertical split window or just in the main window).
